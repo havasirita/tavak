@@ -1,10 +1,31 @@
 body
 {
-background-color:  rgb(37, 83, 37);
-font-family:  Verdana;
-color:  #FFF;
+    background-color:  rgb(112, 236, 216);
+    font-family:  Verdana;
+    color:  rgb(32, 13, 85);
+    width: 80%;
+    margin: auto;
 }
+header{
+    height: 250px;
+    background-image: url('fejkep.jpg');
+    background-repeat:inherit;
+    background-position: center center;
+    box-shadow: 5px 10px 18px  #0c0435;
+    border-radius: 10px;
+    padding-top:40px;
+    
+}
+header h1{
+    text-indent: 30px;
+    background-color: rgba(255,255,255,0.6);
+    margin-top:60px;
+    margin-left:60px;
+    text-indent: 40px;
+    font-weight: bold;
+    width:70%;
 
+}
 
 
 
