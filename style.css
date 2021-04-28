@@ -37,5 +37,24 @@ header h1{
     margin:auto;
     text-align:center;
 }
+div.polaroid {
+    width: 320px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+  }
+  
+div.rotate_right {
+    margin:auto;
+    -ms-transform: rotate(3deg); /* IE 9 */
+    -webkit-transform: rotate(3deg); /* Safari */
+    transform: rotate(3deg);
+  }
 
+footer p{
+    font-size:10px;
+    text-align: center;
+    padding:0px;
 
+}
